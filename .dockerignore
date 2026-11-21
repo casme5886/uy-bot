@@ -1,0 +1,20 @@
+# Maxfiy va vaqtinchalik fayllar — GitHub'ga yuklanmaydi
+.env
+*.db
+*.db-journal
+*.log
+*.log.*
+*.pid
+keys/
+olx_relay_key*
+relay_key*
+*.key
+_to_delete/
+__pycache__/
+restart_chat.txt
+*_natija.txt
+settings*.json
+.git
+*.bat
+*.ps1
+*.sh
