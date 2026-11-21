@@ -18,3 +18,4 @@ settings*.json
 *.bat
 *.ps1
 *.sh
+coolify-env.txt
